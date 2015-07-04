@@ -5,7 +5,7 @@ language_tabs:
   - php: PHP
 
 toc_footers:
-  - <a href='http://sportarchive.github.io/CloudProcessingEngine/' target="_blank">Cloud Processing Engine (CPE) documentation</a>
+  - <a href='http://sportarchive.github.io/CloudProcessingEngine/' target="_blank">CPE Project doc</a>
 
 includes:
   - sending
