@@ -1,4 +1,4 @@
-## CloudProcessingEngine-SDK documentation
+## CloudProcessingEngine-Client-SDK documentation
 
 This repo hold the SDK documentation source.
 
