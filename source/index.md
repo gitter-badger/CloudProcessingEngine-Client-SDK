@@ -1,11 +1,11 @@
 ---
-title: Cloud Transcode SDK reference
+title: Cloud Processing Engine Client SDK reference
 
 language_tabs:
   - php: PHP
 
 toc_footers:
-  - <a href='http://sportarchive.github.io/CloudTranscode/' target="_blank">Cloud Transcode Stack documentation</a>
+  - <a href='http://sportarchive.github.io/CloudProcessingEngine/' target="_blank">Cloud Processing Engine (CPE) documentation</a>
 
 includes:
   - sending
@@ -18,19 +18,20 @@ search: true
 
 # Introduction
 
-> The PHP SDK repo is here:<br>
-> <a href="https://github.com/sportarchive/CloudTranscode-PHP-SDK" target="_blank">https://github.com/sportarchive/CloudTranscode-PHP-SDK</a>
+> PHP implementation of this SDK is available here:<br>
+> <a href="https://github.com/sportarchive/CloudProcessingEngine-PHP-Client-SDK" target="_blank">https://github.com/sportarchive/CloudTranscode-PHP-SDK</a>
 
-Welcome to the Cloud Transcode (CT) SDK documentation.
+Welcome to the Cloud Processing Engine (CPE) Client SDK documentation.
 
-The CT SDK allow you to communicate with the CT stack:
+The CPE Client SDK allows you to communicate with the CPE stack through AWS SQS.
+You can use it to:
 
    - Submit Jobs
    - Listen to updates
    - Cancel Jobs
    - Get status
 
-It is a wrapper around AWS SQS. It reads and writes the proper JSON format expected by the CT stack.
+It is a simple AWS SQS interface. It reads and writes the proper JSON format expected by the CT stack.
 
 # Dependencies
 
