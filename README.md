@@ -1,7 +1,7 @@
-## CloudTranscode-SDK documentation
+## CloudProcessingEngine-SDK documentation
 
-This repo hold the SDK documentation.
+This repo hold the SDK documentation source.
 
-Visit: http://sportarchive.github.io/CloudProcessingEngine-Client-SDK/
+The generated doc is here: http://sportarchive.github.io/CloudProcessingEngine-Client-SDK/
 
-See: https://github.com/tripit/slate/wiki
+The engine for generating the doc: https://github.com/tripit/slate/wiki
